@@ -1,10 +1,10 @@
-# NFT card component written in Vue.js
+# NFT card component written in React
 
 [View Live Preview 🌎](https://nft-card-component-react.vercel.app/)
 
 ## Preview
 
-![Alt Text](https://github.com/johnnyperdomo/nft-card-component/blob/main/src/assets/nft-card.gif)
+![Alt Text](https://github.com/johnnyperdomo/nft-card-component-react/blob/main/src/assets/nft-card.gif)
 
 **Built with**
 - React
